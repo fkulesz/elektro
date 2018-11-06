@@ -80,6 +80,13 @@ hr {
 	font-weight: 700;
 	color: #333;
 	text-transform: uppercase;
+
+}
+#menu img.navbar-brand {
+	
+	font-size: 24px;
+	font-weight: 700;
+	
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
@@ -90,7 +97,9 @@ hr {
 	padding: 8px 2px;
 	border-radius: 0;
 	margin: 9px 20px 0 20px;
+	
 }
+
 #menu.navbar-default .navbar-nav > li > a:after {
 	display: block;
 	position: absolute;
@@ -277,6 +286,7 @@ header .intro-text {
 }
 #about img {
 	width: 520px;
+	height: 200px;
 	margin-top: 10px;
 	background: #fff;
 	border-right: 0;
@@ -460,7 +470,7 @@ header .intro-text {
 }
 #contact h3 {
 	color: #fff;
-	margin-top: 80px;
+	margin-top: 30px;
 	margin-bottom: 25px;
 	padding-bottom: 20px;
 	font-weight: 400;
